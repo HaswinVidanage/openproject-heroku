@@ -134,8 +134,7 @@ GEM
     mime-types (1.25)
     multi_json (1.8.2)
     multi_test (0.0.2)
-    mysql (2.9.1)
-    mysql2 (0.3.11)
+    mysql (2.9.1)s
     net-ldap (0.2.2)
     oj (2.1.6)
     paper_trail (2.7.2)
@@ -271,7 +270,6 @@ DEPENDENCIES
   letter_opener (~> 1.0.0)
   multi_json
   mysql
-  mysql2 (~> 0.3.11)
   net-ldap (~> 0.2.2)
   oj
   prototype-rails
